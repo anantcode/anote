@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "RaimondFREE";
+
+  src: url("../fonts/RaimondFREE.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+.head-font {
+  font-family: "RaimondFREE";
+}
